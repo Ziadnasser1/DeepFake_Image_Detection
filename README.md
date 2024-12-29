@@ -1,6 +1,6 @@
 # DeepFake Image Detection
 This repository contains a Jupyter Notebook for detecting DeepFake images using advanced machine learning and image processing techniques.
-Models used: Modified **VGG16** , Modeified **AlexNet**, Modified **ResNet18**, modified **VGG19** and modified **EfficientB0 .
+Models used: Modified **VGG16** , Modeified **AlexNet**, Modified **ResNet18**, modified **VGG19** and modified **EfficientB0** .
 
 # Project Overview
 DeepFake technology has become increasingly sophisticated, leading to challenges in distinguishing between real and manipulated media. This project focuses on detecting DeepFake images, leveraging modern deep learning frameworks and techniques.
